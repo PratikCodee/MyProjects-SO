@@ -1,3 +1,3 @@
 # MyProjects-SO
-This are my projects
+This are my projects | 
 Author is Shriram Desai
